@@ -1,1 +1,1 @@
-# clase-7-infografia
+# clase-8-infografia
